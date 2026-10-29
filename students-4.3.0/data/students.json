@@ -1,9 +1,9 @@
 [
   {
 
-    "name": "John Doe",
+    "name": "Nelton Tan",
     "cohort": 1,
-    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=John+Doe"
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Nelton+Tan"
   },
   
   {
@@ -22,3 +22,7 @@
     "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Pauline+Tan"
   }
 ]
+
+
+//  git config --global user.name "Nephyrustavelion"
+//  git config --global user.email "neonewton@hotmail.com"
