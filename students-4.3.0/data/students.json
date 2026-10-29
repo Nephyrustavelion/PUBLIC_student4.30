@@ -25,6 +25,11 @@
     "name": "Alex Tan",
     "cohort": 2,
     "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Alex+Tan"
+  },
+  {
+    "name": "Sally Ooh",
+    "cohort": 2,
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Sally+Ooh"
   }
 ]
 
